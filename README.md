@@ -179,6 +179,10 @@ However, easiest way to view it is to use this link:
 https://inloop.github.io/sqlite-viewer/
 Drag and drop the `test.db` file to the system and you can view tables and content with minimum effort.
 
+:umbrella: OR simply run:
+```bash
+python config/view_database.py
+```
 
 :warning: **Please don't forget to run the code before viewing it. Running the code will create the database under `data/` folder with the name `test.db`**
 

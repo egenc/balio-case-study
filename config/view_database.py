@@ -1,7 +1,7 @@
 import sqlite3
 
 def view_database():
-    conn = sqlite3.connect('test.db')
+    conn = sqlite3.connect('./data/test.db')
     cursor = conn.cursor()
     
     # List all tables
