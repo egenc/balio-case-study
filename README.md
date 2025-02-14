@@ -61,7 +61,7 @@ Now we need to create a venv and activate it:
 ```bash
 python -m venv .balio
 .\.balio\Scripts\activate
-git clone XXXXXXXXXXX
+git clone https://github.com/egenc/balio-case-study
 ```
 
 ### Install Dependencies
