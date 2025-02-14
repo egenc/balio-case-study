@@ -1,0 +1,6 @@
+# requirements.txt
+fastapi
+sqlalchemy
+uvicorn
+pytest
+httpx
