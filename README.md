@@ -168,6 +168,10 @@ Example:
 curl -X PUT "http://127.0.0.1:8000/modify_email_cadence/1" -H "Content-Type: application/json" -d "{\"timing\": \"Every Tuesday\", \"template\": \"Hello, this is an updated weekly email...\"}"
 ```
 
+:x: Please try with different format and it will throw an error.
+
+:umbrella:
+
 ## How to View the Database
 You can view the contents of the database using various methods such as:
 
