@@ -30,10 +30,8 @@ This project is a basic configuration engine for managing custom fields on HubSp
 
 ### Description of Key Files
 
-- **Balio_task.docx**: Documentation of the task requirements and answers.
 - **.gitignore**: Specifies files and directories to be ignored by Git.
 - **main.py**: Entry point of the application.
-- **test.db**: SQLite database file.
 
 #### `api`
 - **mock_functions.py**: Contains mock functions to simulate API calls to HubSpot and Upso.
@@ -45,7 +43,6 @@ This project is a basic configuration engine for managing custom fields on HubSp
 - **High-Level Architecture Diagram.png**: High-level architecture diagram of the project.
 - **Infrastructure Diagram.png**: Diagram of the project infrastructure.
 - **Simplified Design for Low Scale.png**: Diagram of the simplified design for low-scale environments.
-- **test.db**: Another reference to the SQLite database file.
 
 #### `models`
 - **schemas.py**: Defines Pydantic models for request validation.
